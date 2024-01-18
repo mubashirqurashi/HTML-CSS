@@ -1,0 +1,76 @@
+
+/* FIRSTSECTION */
+.firstsection{
+    background-color: rgb(216, 208, 208);
+    line-height: 2rem;
+    height: 100vh;
+}
+
+.para1{
+    color: blueviolet;
+    background-color: rgb(210, 210, 216);
+    /* margin-top: 3rem; */
+    /* padding-top: 2rem; */
+}
+
+.head1{
+    color: rgb(0, 0, 194);
+    background-color: rgb(73, 73, 227);
+}
+.para2{
+    color: red;
+    background-color: yellow;
+}
+.para3{
+    background-color: rgb(82, 171, 141);
+}
+
+/* SECONDSECTION */
+
+.secondsection{
+    background-color: rgb(131, 137, 142);
+    height: 100vh;
+}
+
+.secondhead1{
+    color: brown;
+    background-color: rgb(253, 204, 212);
+    /* width: 90%; */
+    margin-left:2% ;
+    margin-right:2% ;
+    /* margin-top: 3rem; */
+    /* margin-bottom:10rem ; */
+    /* padding-top: 3rem; */
+    position: relative;
+    top: 1vh;
+}
+.secondsection ul li{
+    color: green;
+    text-decoration: underline;
+    background-color: rgb(247, 255, 228);   
+}
+.IT{
+    color: rgb(202, 202, 86);
+    background-color: white;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+
+/* THIRDSECTION */
+
+.thirdsection{
+    background-color: rgb(220, 227, 234);
+    height: 100vh;
+}
+
+.thirdsection h1{
+    color: rgb(55, 55, 222);
+    text-align: center;
+    text-decoration: underline;
+}
+.urdu{
+    font-size: 2rem;
+    font-weight: bold;
+    
+}
